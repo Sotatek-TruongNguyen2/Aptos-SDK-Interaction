@@ -1,0 +1,9 @@
+{
+  "name": "aptos-interaction-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aptos": "^1.3.16"
+  }
+}
